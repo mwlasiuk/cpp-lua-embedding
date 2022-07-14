@@ -1,1 +1,1 @@
-# cpp-lua-interop
+# cpp-lua-embedding
