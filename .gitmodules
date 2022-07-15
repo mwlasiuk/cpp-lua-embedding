@@ -1,0 +1,6 @@
+[submodule "extern/sol"]
+	path = extern/sol
+	url = https://github.com/ThePhD/sol2
+[submodule "extern/lua"]
+	path = extern/lua
+	url = https://github.com/lua/lua
